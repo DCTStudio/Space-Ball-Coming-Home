@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## DCT Development Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/DCTStudio/Space-Ball-Coming-Home/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+  This privacy policy covers the use of the "Space Ball: Coming Home" (mobile game for Android). DCT Development built the "Space Ball: Coming Home" app as an Ad Supported app. It is provided by DCT Development at no cost and is intended for use as is.
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  DCT Development does not collect any personal information from our users, other than built in mechanisms that are present for all the mobile applications in their respective main distribution channels.
 
-### Markdown
+### Information Collection and Use
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  The app does use third party services that may collect information used to identify you.
 
-```markdown
-Syntax highlighted code block
+  Link to privacy policy of third party service providers used by the app:
+  [Google Play Services](https://policies.google.com/privacy)
 
-# Header 1
-## Header 2
-### Header 3
+### Links to Other Sites
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DCTStudio/Space-Ball-Coming-Home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  This app may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having any questions? Сontact [support](mailto:dct.games.creators@gmail.com) and we’ll answer you.
